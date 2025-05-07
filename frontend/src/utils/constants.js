@@ -1,4 +1,4 @@
-export const CONTRACT_ADDRESS = "0xc0cA5E3eCCeE6efdE032C523b0746073AFf430D0";
+export const CONTRACT_ADDRESS = "0xYourContractAddressHere";
 export const CONTRACT_ABI = [
   { "inputs": [], "stateMutability": "nonpayable", "type": "constructor" },
   { "inputs": [ { "internalType": "address", "name": "spender", "type": "address" }, { "internalType": "uint256", "name": "allowance", "type": "uint256" }, { "internalType": "uint256", "name": "needed", "type": "uint256" } ], "name": "ERC20InsufficientAllowance", "type": "error" },
